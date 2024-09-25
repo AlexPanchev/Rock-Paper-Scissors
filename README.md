@@ -10,4 +10,5 @@ https://pastebin.com/dm1aYSm5
 
 # Screenshots
 Output of the code should look like this:
+
 ![image](https://github.com/user-attachments/assets/29a859ad-c1c3-4d6b-b0cc-8bdcd206dd8c)
